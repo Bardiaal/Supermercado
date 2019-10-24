@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarritoCompra</string>
+    <string name="inicio">Añadir al carrito</string>
+    <string name="tv1">Supermercado online</string>
+    <string name="tv2">Pulse sobre la categoría de productos que desea y pulse continuar</string>
+    <string name="carne">Carne</string>
+    <string name="verduras">Verduras</string>
+    <string name="lacteos">Lácteos</string>
+    <string name="button1">Continuar</string>
+    <string name="tv3">Cuando termine pulse sobre el icono de parte inferior derecha, éste le redirigirá al apartado de pago</string>
+    <string name="title_activity_selector_productos">Selector Productos</string>
+    <string name="tv4">Seleccione el producto que desee de la categoría que ha elegido</string>
+    <string name="tv5">Ha elegido: </string>
+    <string name="total">Total a pagar: </string>
+    <string name="euro">€</string>
+    <string name="tv6">Finalizar compra</string>
+    <string name="rb1value">carne</string>
+    <string name="rb2value">lacteo</string>
+    <string name="rb3value">verdura</string>
+    <string name="snackbar">Por favor, seleccione una categoría</string>
+    <string name="tvFinal">Los productos que ha elegido son:</string>
+    <string name="button2">Finalizar Compra</string>
+    <string name="gracias">Gracias por su compra!</string>
+    <string name="volver">Volver al inicio</string>
+</resources>

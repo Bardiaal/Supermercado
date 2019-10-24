@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carne">
+        <item>Muslos de Pollo (5€/kg)</item>
+        <item>Filetes de ternera (7€/kg)</item>
+        <item>Filetes de cerdo(4€/kg)</item>
+        <item>Conejo entero (8€/kg)</item>
+        <item>Filetes de cordero (10€/kg)</item>
+    </string-array>
+
+    <string-array name="verduras">
+        <item>Lechuga (1€/kg)</item>
+        <item>Zanahoria (3€/kg)</item>
+        <item>Pimiento (2€/kg)</item>
+        <item>Acelga (6€/kg)</item>
+        <item>Apio (4€/kg)</item>
+        <item>Alcachofa (7€/kg)</item>
+    </string-array>
+
+    <string-array name="lacteos">
+        <item>Yogur (2€/pack de 6)</item>
+        <item>Leche (2€/pack de 6)</item>
+        <item>Queso (5€/porción 100g.)</item>
+        <item>Flan (3€/pack de 6)</item>
+        <item>Natillas (3€/pack de 6)</item>
+    </string-array>
+</resources>
